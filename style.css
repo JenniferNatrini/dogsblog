@@ -1,0 +1,118 @@
+/* Aquí va el comentario*/
+body{
+    background: url(imagenes/fond.jpg);
+    background-color: black;
+    color: black;
+    font-family: 'Acme', sans-serif;
+}
+
+p{
+    color:black;
+    font-size:larger;
+}
+
+h1{
+    color:fuchsia;
+    font-size: xx-large;
+    text-align: center;
+}
+
+h3{
+    color:yellow;
+    font-size:xx-large;
+    text-align: center;
+}
+
+.paloma1{
+    color: rgb(182, 19, 133);
+    font-size: xx-large;
+}
+
+.buggy1{
+    color: red;
+    font-size: xx-large;
+}
+
+.gol1{
+    color: blue;
+    font-size: xx-large;
+}
+
+/*Para agregar clase. ponemos ( . ) antes del nombre*/
+
+.titulo-web{
+    color: yellow;
+    font-size:bigger;
+}
+
+img{
+    width:500px  ;/*width - ancho*/
+    height:450px ;/*height - largo*/
+    margin: auto;
+    display: block;
+}
+
+.todos{
+    width:700px ;
+    height:600px ;
+    margin:auto;
+    display:block;
+}
+
+.perri{
+    width:500px ;
+    height:650px ;
+    margin: center;
+    display:block;
+}
+
+.carne{
+    width: 200px;
+    height: 200px;
+    margin:auto;
+    display: block;
+}
+
+.correr{
+    width: 200px;
+    height: 200px;
+    margin:auto;
+    display: block;
+}
+
+.peinarse{
+    width: 200px;
+    height: 200px;
+    margin:auto;
+    display: block;
+}
+
+.inyección{
+    width: 200px;
+    height: 200px;
+    margin:auto;
+    display: block;
+}
+
+.gol{
+    width: 450px;
+    height: 450px;
+    margin:auto;
+    display: block;
+}
+
+.paloma{
+    width: 450px;
+    height: 600px;
+    margin:auto;
+    display: block;
+}
+
+.buggy{
+    width: 450px;
+    height:600px;
+    margin:auto;
+    display:block;
+}
+
+
